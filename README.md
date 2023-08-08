@@ -1,7 +1,7 @@
 # 🧑‍🦱 About me:
 👋 Hello! I am Egor Babaev.
 
-I am a Unity Developer and a student at V. N. Karazin National University. I've had the privilege of working at Realis Network as a Unity developer for a year (founder [Telegram](https://t.me/exLead) and [LinkedIn](https://www.linkedin.com/in/sergey-zasorin-1a2516152/)). My primary interests lie in game development, mathematics, and blockchain. 👀
+I am a Unity Developer and a student at V. N. Karazin National University. I've had the privilege of working at Realis Network as a Unity developer for a year (founder's Telegram: @exLead). My primary interests lie in game development, mathematics, and blockchain. 👀
 
 Over the course of my journey, I've honed a diverse set of skills, including:
 
