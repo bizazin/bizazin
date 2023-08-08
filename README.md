@@ -1,16 +1,24 @@
-### Hi there 👋
+# 🧑‍🦱 About me:
+👋 Hello! I am Egor Babaev.
 
-<!--
-**bizazin/bizazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Unity Developer and a student at V. N. Karazin National University. I've had the privilege of working at Realis Network as a Unity developer for a year ([Founder contact](https://t.me/exLead)). My primary interests lie in game development, mathematics, and blockchain. 👀
 
-Here are some ideas to get you started:
+Over the course of my journey, I've honed a diverse set of skills, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Unity Engine Mastery:** 2 years experience 
+
+**C# Fluency** 
+
+**ECS:** Proficient with Entitas, ensuring efficient and scalable game systems
+
+**OOP and SOLID**
+
+**DI:** Mastery in Dependency Injection with Zenject
+
+**GUI Excellence:** Expertise in adaptive UI layout, with proficiency in Figma
+
+For a deeper dive into my projects and accomplishments, feel free to explore further.
+# 📫 Contacts:
+• [LinkedIn](https://www.linkedin.com/in/egor-babaev/)
+
+• E-mail: babaev1302@gmail.com
