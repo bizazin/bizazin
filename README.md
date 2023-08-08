@@ -5,19 +5,19 @@ I am a Unity Developer and a student at V. N. Karazin National University. I've 
 
 Over the course of my journey, I've honed a diverse set of skills, including:
 
-**Unity Engine Mastery:** 2 years experience 
+📌**Unity Engine Mastery:** 2 years experience 
 
-**C# Fluency** 
+📌**C# Fluency** 
 
-**ECS:** Proficient with Entitas, ensuring efficient and scalable game systems
+📌**ECS:** Proficient with Entitas, ensuring efficient and scalable game systems
 
-**OOP and SOLID**
+📌**OOP and SOLID**
 
-**DI:** Mastery in Dependency Injection with Zenject
+📌**DI:** Mastery in Dependency Injection with Zenject
 
-**GUI Excellence:** Expertise in adaptive UI layout, with proficiency in Figma
+📌**GUI Excellence:** Expertise in adaptive UI layout, with proficiency in Figma
 
-**UniRx, DOTwenn** and so on 
+📌**UniRx, DOTwenn** and so on 
 
 For a deeper dive into my projects and accomplishments, feel free to explore further.
 # 📫 Contacts:
