@@ -17,7 +17,7 @@ Over the course of my journey, I've honed a diverse set of skills, including:
 
 📌**GUI Excellence:** Expertise in adaptive UI layout, with proficiency in Figma
 
-📌**UniRx, DOTwenn** and so on 
+📌**UniRx, DOTwenn** and other techologies
 
 For a deeper dive into my projects and accomplishments, feel free to explore further.
 # 📫 Contacts:
