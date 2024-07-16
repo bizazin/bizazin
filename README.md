@@ -14,7 +14,7 @@ Over the course of my journey, I've honed a diverse set of skills, including:
 
 📌**Multiplayer Game Development:** Extensive experience in creating multiplayer games, including matchmaking, lobbies, game object synchronization, and data saving.
 
-📌**Unity Assets:** Worked with many Unity assets such as Zenject, Odin, DOTween, Naninovel and UniRx.
+📌**Unity Assets:** Worked with many Unity assets such as Photon, Zenject, DOTween, Naninovel, UniRx and Odin.
 
 📌**Shaders and VFX:** Proficient in custom shaders and VFX, including MkToon, ColorProToon 2, and EpicToonFX.
 
