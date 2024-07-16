@@ -1,21 +1,26 @@
 # 🧑‍🦱 About me:
 👋 Hello! I am Egor Babaev.
 
-I am a Unity Developer and a student at V. N. Karazin National University. I've had the privilege of working at Realis Network as a Unity developer for a year (founder's Telegram: @exLead). My primary interests lie in Game Development, Mathematics and Blockchain. 👀
-
+I am a Unity Developer and a student at V. N. Karazin National University.
 Over the course of my journey, I've honed a diverse set of skills, including:
 
-📌**Unity Engine Mastery:** 2 years experience 
-
-📌**C# Fluency** 
+📌**Unity & C#** 3 years experience 
 
 📌**ECS:** Proficient with Entitas, ensuring efficient and scalable game systems
 
-📌**OOP and SOLID**
+📌Version Control: Proficient in Git.
+
+📌Third-Party SDK Integration: Experienced in integrating various SDKs into projects.
+
+📌Multiplayer Game Development: Extensive experience in creating multiplayer games, including matchmaking, lobbies, game object synchronization, and data saving.
+
+📌Unity Assets: Worked with many Unity assets such as Zenject, Rewired, Obi, Odin, DoTween, RayFire, and PuppetMaster.
+
+📌Shaders and VFX: Proficient in custom shaders and VFX, including MkToon, ColorProToon 2, and EpicToonFX.
+
+📌Optimization: Skilled in using tools like Profiler and FrameDebugger for UI and code optimization, including refactoring. Experienced in using Logcat.
 
 📌**DI:** Mastery in Dependency Injection with Zenject
-
-📌**GUI Excellence:** Expertise in adaptive UI layout, with proficiency in Figma
 
 📌**UniRx, DOTwenn** and other techologies
 
