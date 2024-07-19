@@ -16,7 +16,7 @@ Over the course of my journey, I've honed a diverse set of skills, including:
 
 📌**Unity Assets:** Worked with many Unity assets such as Photon, Zenject, DOTween, Naninovel, UniRx and Odin.
 
-📌**Shaders and VFX:** Proficient in custom shaders and VFX, including MkToon, ColorProToon 2, and EpicToonFX.
+📌**Shaders and VFX:** Proficient in custom shaders and VFX.
 
 📌**Optimization:** Skilled in using tools like Profiler and FrameDebugger for UI and code optimization, including refactoring. Experienced in using Logcat.
 
