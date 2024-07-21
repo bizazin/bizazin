@@ -27,7 +27,6 @@ For a deeper dive into my projects and accomplishments, feel free to explore my 
 - [Steam 2](https://store.steampowered.com/curator/41338556)
 - [Google Play - Merge Cat Simulator](https://play.google.com/store/apps/details?id=com.soul.merge.cat.cute.simulator.adventure&pcampaignid=web_share)
 - [Google Play - Dragons Tokens Crypto](https://play.google.com/store/apps/details?id=com.dragons.tokens.crypto&pcampaignid=web_share)
-- [Realis Network](https://realis.network/)
 
 # 📫 Contacts:
 • [LinkedIn](https://www.linkedin.com/in/egor-babaev/)
