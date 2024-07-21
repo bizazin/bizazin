@@ -20,8 +20,15 @@ Over the course of my journey, I've honed a diverse set of skills, including:
 
 📌**Optimization:** Skilled in using tools like Profiler and FrameDebugger for UI and code optimization, including refactoring. Experienced in using Logcat.
 
-For a deeper dive into my projects and accomplishments, feel free to explore further.
+For a deeper dive into my projects and accomplishments, feel free to explore my portfolio below.
+
+# 🌟 Portfolio
+- [Steam 1](https://store.steampowered.com/curator/44358675)
+- [Steam 2](https://store.steampowered.com/curator/41338556)
+- [Google Play - Merge Cat Simulator](https://play.google.com/store/apps/details?id=com.soul.merge.cat.cute.simulator.adventure&pcampaignid=web_share)
+- [Google Play - Dragons Tokens Crypto](https://play.google.com/store/apps/details?id=com.dragons.tokens.crypto&pcampaignid=web_share)
+- [Realis Network](https://realis.network/)
+
 # 📫 Contacts:
 • [LinkedIn](https://www.linkedin.com/in/egor-babaev/)
-
 • E-mail: babaev1302@gmail.com
